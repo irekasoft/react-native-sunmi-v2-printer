@@ -43,7 +43,7 @@ project(':react-native-sunmi-v2-printer').projectDir = new File(rootProject.proj
 compile project(':react-native-sunmi-v2-printer')
 ```
 
-* adds package references to  MainPackage.java
+* adds package references to  MainPackage.java ( in my case no need ) 
 
 ```java
 import com.sunmi.v2.printer.SunmiV2PrinterPackage;
@@ -63,7 +63,7 @@ import com.sunmi.v2.printer.SunmiV2PrinterPackage;
 Import in React-Native:
 
 ```javascript
-import SunmiV2Printer from 'react-native-sunmi-v2-printer';
+import { SunmiV2Printer } from 'react-native-sunmi-v2-printer';
 ```
 
 ## API
