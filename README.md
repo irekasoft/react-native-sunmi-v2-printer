@@ -16,8 +16,8 @@ Offical Demos refer: https://github.com/shangmisunmi/SunmiPrinterDemo
 Install from source
 
 ```bash
-npm install https://github.com/kev-ac/react-native-sunmi-v2-printer.git --save
-yarn add https://github.com/kev-ac/react-native-sunmi-v2-printer.git --save
+npm install https://github.com/irekasoft/react-native-sunmi-v2-printer.git --save
+yarn add https://github.com/irekasoft/react-native-sunmi-v2-printer.git
 ```
 
 **Step 2:** (For React-Native < 0.60)
